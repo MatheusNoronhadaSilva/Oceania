@@ -1,0 +1,101 @@
+*{
+    font-family: Comic Sans MS, Comic Sans, cursive
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 360px;
+    margin-right: 360px;
+}
+.lista{
+    position: absolute; left: 1050px; bottom: -200px;
+}
+.globo{
+    height: 300px;
+    position: absolute; left: 620px;
+}
+h2{
+margin-top: 400px;
+text-align: center;
+font-size: 35px;
+
+}
+.ul1{
+    margin-left: 630px;
+}
+.pais{
+    margin-left: 750px;
+}
+h3{
+    font-size: 35PX;
+    text-align: center;
+}
+.re{
+    text-align: center;
+    margin-left: 320px;
+    margin-right: 320px;
+}
+.minerio{
+    height: 300px;
+    margin-left: 750px;
+}
+
+.Oceania{
+    width: 1505px;
+}
+
+.ul1{
+    margin-left: 530px
+}
+
+.ul2{
+    position: absolute; left: 820px; top: 947px;
+}
+
+footer{
+    text-align: center;
+}
+
+.recurso{
+    margin-left: 585px;
+}
+
+.linha{
+    position: absolute; top: 252px;
+    width: 350px;
+}
+
+.linha1{
+    position: absolute; top: 493px;
+    width: 350px;
+}
+.linha2{
+    position: absolute; top: 727px;
+    width: 350px;
+}
+.linha3{
+    position: absolute; top: 1000px;
+    width: 350px;
+}
+
+.Dlinha0{
+    width: 350px;
+    position: absolute; top: 252px; right: 0px;
+}
+.Dlinha1{
+    width: 350px;
+    position: absolute; top: 493px; right: 0px;
+}
+.Dlinha2{
+    width: 350px;
+    position: absolute; top: 727px; right: 0px;
+}
+
+.Dlinha3{
+    width: 350px;
+    position: absolute; top: 1000px; right: 0px;
+}
